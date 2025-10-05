@@ -229,7 +229,7 @@
       <button_text>
         <locale_1033>Help</locale_1033>
       </button_text>
-      <script>-_RunPythonScript "import webbrowser;webbrowser.open(r'https://spherene.ch/documentation/sphereneRHINO')"</script>
+      <script>-_RunPythonScript "import webbrowser;webbrowser.open(r'https://documentation.spherene.io/sphereneRHINO')"</script>
     </macro_item>
     <macro_item guid="3b2e5205-415c-4ecd-bbd7-bbf7b7924c53" bitmap_id="5083a4da-34a0-42b7-8590-a01827d2d209">
       <text>
